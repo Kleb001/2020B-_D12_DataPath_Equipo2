@@ -12,7 +12,7 @@ ________________________________________________________________________________
 * Profesor: Jorge Ernesto López Arce
 * Materia: Seminario de Solución de Problemas de Arquitectura de Computadoras
 
-### Diagrama Fase 1
+### Diagrama
 ![](https://d2vlcm61l7u1fs.cloudfront.net/media%2F63b%2F63b8364b-1ba0-467c-87f2-60b74041b998%2FphpArhSpB.png)
 
 
