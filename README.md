@@ -13,6 +13,6 @@ ________________________________________________________________________________
 * Materia: Seminario de Solución de Problemas de Arquitectura de Computadoras
 
 ### Diagrama Fase 1
-![](https://d2vlcm61l7u1fs.cloudfront.net/media%2F183%2F183d6272-8fa5-4168-9966-1e0924da1f95%2Fphp5w770Z.png)
+![]
 
 
